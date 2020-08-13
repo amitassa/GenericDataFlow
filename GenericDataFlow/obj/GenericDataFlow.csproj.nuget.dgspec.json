@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Collection\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj": {}
+    "C:\\Code\\Collections and Generics\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Collection\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj": {
+    "C:\\Code\\Collections and Generics\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Collection\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj",
+        "projectUniqueName": "C:\\Code\\Collections and Generics\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj",
         "projectName": "GenericDataFlow",
-        "projectPath": "C:\\Code\\Collection\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj",
+        "projectPath": "C:\\Code\\Collections and Generics\\GenericDataFlow\\GenericDataFlow\\GenericDataFlow.csproj",
         "packagesPath": "C:\\Users\\thelittlecitizen13\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Collection\\GenericDataFlow\\GenericDataFlow\\obj\\",
+        "outputPath": "C:\\Code\\Collections and Generics\\GenericDataFlow\\GenericDataFlow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thelittlecitizen13\\AppData\\Roaming\\NuGet\\NuGet.Config",
